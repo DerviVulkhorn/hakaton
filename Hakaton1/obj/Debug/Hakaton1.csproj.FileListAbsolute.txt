@@ -1,0 +1,209 @@
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\obj\Debug\Hakaton1.csproj.AssemblyReference.cache
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\obj\Debug\MainWindow.g.cs
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\obj\Debug\pages\Admin\AddUserPage.g.cs
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\obj\Debug\pages\Admin\PageAdmin.g.cs
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\obj\Debug\pages\Admin\PageListOrders.g.cs
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\obj\Debug\pages\Admin\WorkWarehouse.g.cs
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\obj\Debug\pages\AuthorizationPage.g.cs
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\obj\Debug\pages\Checkpoint\CheckPoint.g.cs
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\obj\Debug\pages\Checkpoint\CreatePass.g.cs
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\obj\Debug\pages\Checkpoint\PageCheckpoint.g.cs
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\obj\Debug\pages\OperatorLiftTruck\GridPage.g.cs
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\obj\Debug\pages\OrderMan\OrderManPage.g.cs
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\obj\Debug\Hakaton1_MarkupCompile.cache
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\obj\Debug\Hakaton1_MarkupCompile.lref
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\obj\Debug\Hakaton1.exe
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\obj\Debug\Hakaton1.pdb
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\bin\Debug\Hakaton1.exe.config
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\bin\Debug\Hakaton1.exe
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\bin\Debug\Hakaton1.pdb
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\bin\Debug\Npgsql.dll
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\bin\Debug\System.Buffers.dll
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\bin\Debug\System.Memory.dll
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\bin\Debug\System.Text.Json.dll
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\bin\Debug\System.Threading.Channels.dll
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\bin\Debug\System.ValueTuple.dll
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\bin\Debug\Npgsql.xml
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\bin\Debug\System.Buffers.xml
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\bin\Debug\System.Collections.Immutable.xml
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\bin\Debug\System.Memory.xml
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\bin\Debug\System.Text.Json.xml
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\bin\Debug\System.Threading.Channels.xml
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\bin\Debug\System.ValueTuple.xml
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\obj\Debug\App.g.cs
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\obj\Debug\MainWindow.baml
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\obj\Debug\pages\Admin\AddUserPage.baml
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\obj\Debug\pages\Admin\PageAdmin.baml
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\obj\Debug\pages\Admin\PageListOrders.baml
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\obj\Debug\pages\Admin\WorkWarehouse.baml
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\obj\Debug\pages\AuthorizationPage.baml
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\obj\Debug\pages\Checkpoint\CheckPoint.baml
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\obj\Debug\pages\Checkpoint\CreatePass.baml
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\obj\Debug\pages\Checkpoint\PageCheckpoint.baml
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\obj\Debug\pages\OperatorLiftTruck\GridPage.baml
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\obj\Debug\pages\OrderMan\OrderManPage.baml
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\obj\Debug\Hakaton1.g.resources
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\obj\Debug\Hakaton1.Properties.Resources.resources
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\obj\Debug\Hakaton1.csproj.GenerateResource.cache
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\obj\Debug\Hakaton1.csproj.CoreCompileInputs.cache
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\obj\Debug\Hakaton1.csproj.CopyComplete
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\obj\Debug\App.baml
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\obj\Debug\pages\Admin\othersPages\imagePages.g.cs
+C:\Users\malyg\Desktop\Hakaton1\Hakaton1\obj\Debug\pages\Admin\othersPages\imagePages.baml
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\bin\Debug\Hakaton1.exe.config
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\bin\Debug\Hakaton1.exe
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\bin\Debug\Hakaton1.pdb
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\bin\Debug\Npgsql.dll
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\bin\Debug\System.Buffers.dll
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\bin\Debug\System.Collections.Immutable.dll
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\bin\Debug\System.Memory.dll
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\bin\Debug\System.Numerics.Vectors.dll
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\bin\Debug\System.Text.Encodings.Web.dll
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\bin\Debug\System.Text.Json.dll
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\bin\Debug\System.Threading.Channels.dll
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\bin\Debug\System.ValueTuple.dll
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\bin\Debug\Npgsql.xml
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\bin\Debug\System.Buffers.xml
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\bin\Debug\System.Collections.Immutable.xml
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\bin\Debug\System.Memory.xml
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\bin\Debug\System.Numerics.Vectors.xml
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\bin\Debug\System.Text.Encodings.Web.xml
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\bin\Debug\System.Text.Json.xml
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\bin\Debug\System.Threading.Channels.xml
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\bin\Debug\System.ValueTuple.xml
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\obj\Debug\MainWindow.g.cs
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\obj\Debug\pages\Admin\AddUserPage.g.cs
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\obj\Debug\pages\Admin\othersPages\imagePages.g.cs
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\obj\Debug\pages\Admin\PageAdmin.g.cs
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\obj\Debug\pages\Admin\PageListOrders.g.cs
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\obj\Debug\pages\Admin\WorkWarehouse.g.cs
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\obj\Debug\pages\AuthorizationPage.g.cs
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\obj\Debug\pages\Checkpoint\CheckPoint.g.cs
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\obj\Debug\pages\Checkpoint\CreatePass.g.cs
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\obj\Debug\pages\Checkpoint\PageCheckpoint.g.cs
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\obj\Debug\pages\OperatorLiftTruck\GridPage.g.cs
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\obj\Debug\pages\OrderMan\OrderManPage.g.cs
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\obj\Debug\App.g.cs
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\obj\Debug\Hakaton1_MarkupCompile.cache
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\obj\Debug\Hakaton1_MarkupCompile.lref
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\obj\Debug\App.baml
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\obj\Debug\MainWindow.baml
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\obj\Debug\pages\Admin\AddUserPage.baml
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\obj\Debug\pages\Admin\othersPages\imagePages.baml
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\obj\Debug\pages\Admin\PageAdmin.baml
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\obj\Debug\pages\Admin\PageListOrders.baml
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\obj\Debug\pages\Admin\WorkWarehouse.baml
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\obj\Debug\pages\AuthorizationPage.baml
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\obj\Debug\pages\Checkpoint\CheckPoint.baml
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\obj\Debug\pages\Checkpoint\CreatePass.baml
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\obj\Debug\pages\Checkpoint\PageCheckpoint.baml
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\obj\Debug\pages\OperatorLiftTruck\GridPage.baml
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\obj\Debug\pages\OrderMan\OrderManPage.baml
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\obj\Debug\Hakaton1.g.resources
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\obj\Debug\Hakaton1.Properties.Resources.resources
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\obj\Debug\Hakaton1.csproj.GenerateResource.cache
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\obj\Debug\Hakaton1.csproj.CoreCompileInputs.cache
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\obj\Debug\Hakaton1.csproj.CopyComplete
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\obj\Debug\Hakaton1.exe
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\obj\Debug\Hakaton1.pdb
+D:\Visual STD (Работы)\4 kyrs\Hakaton\Hakaton1\Hakaton1\obj\Debug\Hakaton1.csprojAssemblyReference.cache
+D:\Programm\wpf\Hakaton1\Hakaton1\bin\Debug\Hakaton1.exe.config
+D:\Programm\wpf\Hakaton1\Hakaton1\bin\Debug\Hakaton1.exe
+D:\Programm\wpf\Hakaton1\Hakaton1\bin\Debug\Hakaton1.pdb
+D:\Programm\wpf\Hakaton1\Hakaton1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programm\wpf\Hakaton1\Hakaton1\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Programm\wpf\Hakaton1\Hakaton1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programm\wpf\Hakaton1\Hakaton1\bin\Debug\Npgsql.dll
+D:\Programm\wpf\Hakaton1\Hakaton1\bin\Debug\System.Buffers.dll
+D:\Programm\wpf\Hakaton1\Hakaton1\bin\Debug\System.Collections.Immutable.dll
+D:\Programm\wpf\Hakaton1\Hakaton1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Programm\wpf\Hakaton1\Hakaton1\bin\Debug\System.Memory.dll
+D:\Programm\wpf\Hakaton1\Hakaton1\bin\Debug\System.Numerics.Vectors.dll
+D:\Programm\wpf\Hakaton1\Hakaton1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programm\wpf\Hakaton1\Hakaton1\bin\Debug\System.Text.Encodings.Web.dll
+D:\Programm\wpf\Hakaton1\Hakaton1\bin\Debug\System.Text.Json.dll
+D:\Programm\wpf\Hakaton1\Hakaton1\bin\Debug\System.Threading.Channels.dll
+D:\Programm\wpf\Hakaton1\Hakaton1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Programm\wpf\Hakaton1\Hakaton1\bin\Debug\System.ValueTuple.dll
+D:\Programm\wpf\Hakaton1\Hakaton1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Programm\wpf\Hakaton1\Hakaton1\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Programm\wpf\Hakaton1\Hakaton1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Programm\wpf\Hakaton1\Hakaton1\bin\Debug\Npgsql.xml
+D:\Programm\wpf\Hakaton1\Hakaton1\bin\Debug\System.Buffers.xml
+D:\Programm\wpf\Hakaton1\Hakaton1\bin\Debug\System.Collections.Immutable.xml
+D:\Programm\wpf\Hakaton1\Hakaton1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Programm\wpf\Hakaton1\Hakaton1\bin\Debug\System.Memory.xml
+D:\Programm\wpf\Hakaton1\Hakaton1\bin\Debug\System.Numerics.Vectors.xml
+D:\Programm\wpf\Hakaton1\Hakaton1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programm\wpf\Hakaton1\Hakaton1\bin\Debug\System.Text.Encodings.Web.xml
+D:\Programm\wpf\Hakaton1\Hakaton1\bin\Debug\System.Text.Json.xml
+D:\Programm\wpf\Hakaton1\Hakaton1\bin\Debug\System.Threading.Channels.xml
+D:\Programm\wpf\Hakaton1\Hakaton1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Programm\wpf\Hakaton1\Hakaton1\bin\Debug\System.ValueTuple.xml
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\Hakaton1.csproj.AssemblyReference.cache
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\Hakaton1.csproj.SuggestedBindingRedirects.cache
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\MainWindow.g.cs
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\pages\Admin\AddUserPage.g.cs
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\pages\Admin\othersPages\imagePages.g.cs
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\pages\Admin\PageAdmin.g.cs
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\pages\Admin\PageListOrders.g.cs
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\pages\Admin\WorkWarehouse.g.cs
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\pages\AuthorizationPage.g.cs
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\pages\Checkpoint\CheckPoint.g.cs
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\pages\Checkpoint\CreatePass.g.cs
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\pages\Checkpoint\PageCheckpoint.g.cs
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\pages\OperatorLiftTruck\GridPage.g.cs
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\pages\OrderMan\OrderManPage.g.cs
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\App.g.cs
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\Hakaton1_MarkupCompile.cache
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\Hakaton1_MarkupCompile.lref
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\App.baml
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\MainWindow.baml
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\pages\Admin\AddUserPage.baml
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\pages\Admin\othersPages\imagePages.baml
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\pages\Admin\PageAdmin.baml
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\pages\Admin\PageListOrders.baml
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\pages\Admin\WorkWarehouse.baml
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\pages\AuthorizationPage.baml
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\pages\Checkpoint\CheckPoint.baml
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\pages\Checkpoint\CreatePass.baml
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\pages\Checkpoint\PageCheckpoint.baml
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\pages\OperatorLiftTruck\GridPage.baml
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\pages\OrderMan\OrderManPage.baml
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\Hakaton1.g.resources
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\Hakaton1.Properties.Resources.resources
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\Hakaton1.csproj.GenerateResource.cache
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\Hakaton1.csproj.CoreCompileInputs.cache
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\Hakaton1.csproj.CopyComplete
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\Hakaton1.exe
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\Hakaton1.pdb
+D:\Programm\wpf\Hakaton1\Hakaton1\obj\Debug\Hakaton1_Content.g.cs

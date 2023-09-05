@@ -1,0 +1,70 @@
+﻿<Page x:Class="Hakaton1.pages.Checkpoint.CreatePass"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Hakaton1.pages.Checkpoint"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="CreatePass">
+
+    <Grid>
+        <StackPanel Orientation="Vertical" Margin="10">
+            <StackPanel Orientation="Horizontal">
+                <GroupBox Header="Фильтры" Margin="10">
+                    <StackPanel Orientation="Horizontal" Margin="10">
+
+                        <StackPanel Orientation="Vertical">
+                            <Label Content="По компании:" HorizontalContentAlignment="Right" Margin="4"/>
+                            <Label Content="Поиск по номеру авто:" HorizontalContentAlignment="Right" Margin="4"/>
+                            <Label Content="Поиск по ФИО:" HorizontalContentAlignment="Right" Margin="4"/>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Vertical">
+                            <ComboBox Name="cmbCompanies"  Width="150" Height="28" Margin="4" DisplayMemberPath="nameCompany" SelectionChanged="cmbCompanies_SelectionChanged" />
+                            <TextBox Name="txbSearch" Width="150" TextChanged="txbSearch_TextChanged" Height="28" Margin="4" />
+                            <TextBox Name="txbFio" Width="150" Height="28" TextChanged="txbFio_TextChanged" Margin="4" />
+                        </StackPanel>
+
+                        <StackPanel Orientation="Vertical" VerticalAlignment="Center" Margin="10">
+                            <Button Name="btnReset" Content="Сбросить фильтры" Height="30" Width="150" Click="btnReset_Click" />
+                        </StackPanel>
+
+                    </StackPanel>
+
+                </GroupBox>
+
+                <StackPanel Orientation="Vertical" HorizontalAlignment="Right" Margin="30">
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+
+                    </StackPanel>
+                </StackPanel>
+
+            </StackPanel>
+            <StackPanel Orientation="Vertical" Margin="10" HorizontalAlignment="Left">
+                <DataGrid Name="dgrdListCheckPoint" AutoGenerateColumns="False" IsReadOnly="True" MaxHeight="220" Margin="6">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Номер пропуска" Binding="{Binding numberPass}"/>
+                        <DataGridTextColumn  Header="Дата создание заказа" Binding="{Binding dateStart, StringFormat=dd.MM.yyyy}"/>
+                        <DataGridTextColumn  Header="Дата конца получения заказа" Binding="{Binding dateEnd, StringFormat=dd.MM.yyyy}"/>
+                        <DataGridTextColumn  Header="Компания" Binding="{Binding nameCompany}"/>
+                        <DataGridTextColumn  Header="ФИО водителя" Binding="{Binding FIO}"/>
+                        <DataGridTextColumn  Header="Модель авто" Binding="{Binding nameModel}"/>
+                        <DataGridTextColumn  Header="Номер авто" Binding="{Binding numberCar}"/>
+                        <DataGridTextColumn  Header="Статус" Binding="{Binding nameStatus}"/>
+
+                        <DataGridTemplateColumn>
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <StackPanel Orientation="Horizontal">
+                                        <Button Name="btnCreate" Width="120" Content="Создать" Height="26" Click="btnCreate_Click"/>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>
